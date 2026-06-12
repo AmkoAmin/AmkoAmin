@@ -7,9 +7,3 @@
 
 ### Either skilled or pretending
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux)](https://skillicons.dev)
-
-## Stats
-<div align="center">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AmkoAmin&show_icons=true&theme=transparent"/>
-    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent"/>
-</div>
