@@ -6,4 +6,9 @@
 - More about me at [aminskenderi.me](https://aminskenderi.me)
 
 ### Either skilled or pretending
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux)](https://skillicons.dev
+
+## Stats
+<div align="center">
+    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent"/>
+</div>
