@@ -8,3 +8,7 @@
 ### Either skilled or pretending
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux)
 
+## Stats
+<div align="center">
+    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimsergey&layout=donut&theme=transparent"/>
+</div>
