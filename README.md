@@ -6,7 +6,7 @@
 - More about me at [aminskenderi.me](https://aminskenderi.me)
 
 ### Either skilled or pretending
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,matlab,latex,bash,linux)
 
 ## Stats
 <div align="center">
