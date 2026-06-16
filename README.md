@@ -13,6 +13,8 @@
 </td>
 <td valign="top">
 
+**Either skilled or pretending**
+
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux&perline=1)
 
 </td>
