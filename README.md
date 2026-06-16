@@ -10,5 +10,5 @@
 
 ## Stats
 <div align="center">
-    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent&cache_seconds=86400&v=8"/>
+    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent&size_weight=0.5&count_weight=0.5&cache_seconds=86400&v=9"/>
 </div>
