@@ -11,7 +11,3 @@
 <div align="center">
     <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent&cache_seconds=86400&v=2"/>
 </div>
-
-<div align="center">
-    <img alt="activity-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AmkoAmin&theme=github-compact&hide_border=true&area=true&cache_seconds=86400&v=1"/>
-</div>
