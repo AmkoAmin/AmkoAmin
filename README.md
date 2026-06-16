@@ -8,5 +8,4 @@
 ### Either skilled or pretending
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux)
 
-### Most Used Languages
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent&hide_border=true&hide_title=true&card_width=480&cache_seconds=86400&v=5"/>
+<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent&hide_border=true&cache_seconds=86400&v=6"/>
