@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="58%">
 
 - Computer Engineering student at TU Berlin.
 - Leading a robotics team - the robot drives itself, I just take the credit.
@@ -15,9 +15,9 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,linux)
 
 </td>
-<td valign="top">
+<td valign="top" width="42%">
 
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent&hide_border=true&cache_seconds=86400&v=3"/>
+<img alt="top-langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmkoAmin&layout=donut&theme=transparent&hide_border=true&card_width=420&cache_seconds=86400&v=4"/>
 
 </td>
 </tr>
